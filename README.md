@@ -32,6 +32,7 @@ I'll divide this section into proprietary and open source parts:
 
 I heard sometimes that the comments were 'aggressive' or 'not so good' because of bad words and blablabla. 
 I was not so "polite" and I don't give a fuck if you read a bad word and this breaks your "crystal castle" of "world illusions" and you think that I'm a monster because of that... I don't give a shit about your 'identity cry', you should grow up and maybe face the real life problems you have before it's too late.
+
 I wish people that get easily offended like that to live in a fuckin' real world and fuck off away from me before I forget that, if you agree that every single motherfuckin' comment in a code must be 'polite' and 'lovely' everyday no matter what then I think you should fuck yourself with a cactus so maybe it scraches inside the surface person that you are, or you can use a light pole if you preffer so it can enlighten your brain in a literal way... then you tell the world you're a firefly.
 
 **The point is:** if the code is working, and all of it was written by me and no single godamn being was there to help (but were there just to complain, not issue) when I was doing that, just use it, maybe fork it and go show your 'beautiful people' friends that you solved some problem idk (give the due credits btw). You can also improve the efficiency or the workflow of it and make real changes and really help someone somewhere and this will help you to cycle on it.
